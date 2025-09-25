@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+.env.*
+
+# FastAPI logs
+sanitizer.log
+
+# Node
+node_modules/
+
+# Build
+build/
+dist/
+
+# React
+*.log
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.swp
+*.swo
